@@ -1,1 +1,3 @@
-Ejemplo de como cargar asincrónicamente un plugin jQuery en nuestro proyecto web
+Cargar asincrónicamente un plugin jQuery (jQuery 1.4) 
+
+Post: http://blog.nubecolectiva.com/seo-cargar-asincronicamente-un-plugin-jquery/ 
